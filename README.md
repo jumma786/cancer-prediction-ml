@@ -61,8 +61,6 @@ Implemented classification algorithms:
 * Decision Tree
 * Random Forest
 
-These models are commonly used for cancer classification tasks ([GitHub][1])
-
 ---
 
 ### 5️⃣ Model Evaluation
